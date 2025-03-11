@@ -1,5 +1,6 @@
 import { useSelector, useDispatch } from "react-redux";
 import './App.css'
+import Piechart from "./components/Visualization/PieChart/Piechart";
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
     hey  there this is the app page 
+    <Piechart />
     </>
   )
 }
