@@ -1,12 +1,12 @@
 import { useSelector, useDispatch } from "react-redux";
 import './App.css'
-
+import Barchart from "./components/visualisation/Barchart"
 function App() {
 
 
   return (
     <>
-    hey  there this is the app page 
+    <Barchart/>
     </>
   )
 }
