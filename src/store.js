@@ -13,9 +13,5 @@ export const store = configureStore({
     footer:footerSlice,
     header:headerSlice,
     notfound:notfoundSlice,
-    
-
-
-  },
-  
+  }, 
 });

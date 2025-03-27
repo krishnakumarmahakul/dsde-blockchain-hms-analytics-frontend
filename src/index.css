@@ -36,6 +36,9 @@
     --color-yolk-500: #c28800;
     --color-yolk-300: #ffc800;
     --color-yolk-25: #fefaea;
+    --color-aqua-1000: #00FFFF;
+    --color-aqua-700: #b1ebeb;
+    --color-aqua-500: #7ae6e6;
     --color-transparent: transparent;
     --shadow-500: 0px 2px 12px 0px rgba(0,0,0,0.15);
     --elevation-medium: var(--shadow-500);
@@ -61,5 +64,4 @@
     --font-height-tight: 1;
     --font-height-normal: 1.5;
     --button-font-family: var(--font-family-regular);
-   
   }
